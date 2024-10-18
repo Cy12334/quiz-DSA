@@ -1,0 +1,21 @@
+
+.container{
+    background: beige;
+    width: 100%;
+    min-height: 98vh;
+    padding: 20px;
+}
+.todoTask{
+    width: 100%;
+    max-width: 540px;
+    background: greenyellow;
+    margin: 100px auto 20px ;
+    padding: 40px 30px 70px;
+}
+.todoTask h2{
+    margin: auto;
+}
+#listContainer{
+    list-style-type: none;
+}
+
